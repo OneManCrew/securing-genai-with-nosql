@@ -12,4 +12,4 @@ This repository contains the code examples from the blog post.
 
 ## Blog Post
 
-Read the full article at [One Man Crew DevLog](https://omcblog.netlify.app/blog/securing-genai-with-nosql-advanced-strategies)
+Read the full article at [One Man Crew DevLog](https://www.onemancrew.dev/blog/securing-genai-with-nosql-advanced-strategies)
